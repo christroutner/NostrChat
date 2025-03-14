@@ -1,5 +1,13 @@
 # NostrChat
 
+dev-2024 is a branch from 2024. It was 98 commits behind the upstream on 3/14/25.
+I was not able to get this branch to comile and run due to errors that were complaining that I had a newer version of Typescript.
+
+I'm saving this branch before I sync with upstream. I also need to look at what's running on the psfoundation server to see what version of node.js it's using and which commit its
+on, and which version of Typescript its using.
+
+-----
+
 <img src="public/logo192.png" width="100">
 
 NostrChat is one of the most decentralized chat apps ever built. 
